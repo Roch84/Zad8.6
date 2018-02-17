@@ -1,12 +1,5 @@
-// alert ('Hello Yuser in my domain')
-/*var name = prompt('Enter your name');
-alert('Hello, ' + name);
-console.log('Hello, ' + name);*/
-//alert(foo);
-//foo = 'lorem' + ['1', 2, 3.4];     // 'lorem1, 2, 3.4'
-
 var a = 1,
-	b = 1,
+	b = 1;
 a = prompt ('podaj liczbę a');
 b = prompt ('podaj liczbę b');
 value = (a * a) - (2 * a * b) - (b * b);
