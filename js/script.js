@@ -1,5 +1,5 @@
 var a = 1,
-	b = 1,
+	b = 1;
 a = prompt ('podaj liczbę a');
 b = prompt ('podaj liczbę b');
 value = (a * a) - (2 * a * b) - (b * b);
